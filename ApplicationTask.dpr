@@ -1,3 +1,4 @@
+// Application task for moebel.de from Mirko Grzybowski
 program ApplicationTask;
 
 {$APPTYPE CONSOLE}
